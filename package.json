@@ -4,6 +4,7 @@
   "description": "A typescript implementation of hangman",
   "main": "main.ts",
   "scripts": {
+    "build": "gulp js-browserify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
